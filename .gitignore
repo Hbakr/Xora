@@ -1,4 +1,5 @@
 .vscode
 node_modules
 README.md
+saas_landing_page assets
 eslint.config.js
